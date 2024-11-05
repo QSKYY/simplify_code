@@ -1,0 +1,11 @@
+Instructions for use
+
+1) Installing the autopep8 library
+2) Copy the Python code you want to simplify and paste it into the CODE variable
+3) Run the script: python simplify_code.py
+
+
+IMPORTANT!
+
+It is important to manually test the simplified code to ensure that all functions work as expected. 
+Automatic simplification is suitable for simple to medium-sized projects, but more testing may be required for complex software solutions.
